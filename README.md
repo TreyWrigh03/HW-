@@ -1,0 +1,1 @@
+Pretty tough assignment took me awhile to get it working, taking it one function at a time helped alot. Had to rush to get it down tn bc im going out of town and wont be able to work on it so pushing this to github at 3am lol.
